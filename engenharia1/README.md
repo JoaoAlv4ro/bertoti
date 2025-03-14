@@ -48,3 +48,9 @@ O Windows é conhecido por suas interface gráfica e recursos que facilitam a vi
 Suponha que você está criando um aplicativo de tarefas para gerenciar a lista de afazeres de um usuário. Para simplificar, você decide armazenar todas as tarefas de todos os usuários em um único arquivo de texto. Isso torna o código muito **simples e fácil** de implementar.
 
 À medida que o número de usuários cresce esse arquivo de texto se torna maior e mais difícil de gerenciar. A busca por uma tarefa específica ou o carregamento de todas as tarefas pode ficar muito lento. Para **escalabilidade**, você precisaria migrar para um banco de dados, o que daria uma complexidade ao sistema. Trocando o simples por algo que possa se expandir e permitir melhorias no futuro.
+
+> ### [Engenharia de Software - MVP](https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhIfLI/edit#slide=id.g1100bb71266_1_7)
+> ![image](https://github.com/user-attachments/assets/a89365ab-8947-4177-b04a-21e0c887b0f6)
+
+Na imagem acima é demonstrado o beneficio de, ao longo de uma entrega de um produto, realizar entregas com valor ao invés de partes não funcionais do todo. Como no exemplo, se alguém precisa de um carro, é melhor oferecer aos poucos outros meios para transporte mais simples como um skate, uma bicicleta, uma moto e então um carro, ao invés de entregar as rodas ou um chassi, onde o cleinte não conseguirá utilizar.
+
